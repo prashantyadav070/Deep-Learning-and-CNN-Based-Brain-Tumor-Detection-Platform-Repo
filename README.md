@@ -6,7 +6,7 @@ Step 1: Download the Source Code
 
 Clone this repository:
 
-git clone <YOUR_GITHUB_REPO_LINK>
+git clone <https://github.com/prashantyadav070/Deep-Learning-and-CNN-Based-Brain-Tumor-Detection-Platform-Repo.git>
 
 Or download the ZIP file from GitHub and extract it.
 
@@ -35,7 +35,7 @@ Step 5: Download Model File
 
 Download model.h5 from the Google Drive link:
 
-<MODEL_DRIVE_LINK_HERE>
+<https://drive.google.com/file/d/1qbnOoa1oeiufnSacw3VUsCInCwrNiTl4/view?usp=sharing>
 
 Place it here:
 
